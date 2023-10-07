@@ -1,5 +1,9 @@
 # San-Francisco-311-Requests-by-Neighborhood
 I used Google Data Studio (renamed to Google Looker Studio) to create an interactive map that shows the number of different types of San Francisco 311 service requests around the world, such as street and sidewalk cleaning, graffiti, and encampments. For example, clicking any location on the map gives the number and types of reported requests in the area.
+
+Dataset source: https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6
+
+According to the City and County of San Francisco, the San Francisco 311 service requests dataset updates daily. It includes data from July 2008 to the present. I recorded the videos and took the screenshot on October 6, 2023, so the visuals do not have the latest information.
 ![Image](https://github.com/SMarbella/San-Francisco-311-Requests-by-Neighborhood/blob/main/Images/GIS%20Mapping.png)
 
 # Geographic Information System (GIS) Interactive Map
